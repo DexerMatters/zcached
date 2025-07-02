@@ -1,3 +1,5 @@
+.vscode/
+
 # Zig build artifacts
 .zig-cache/
 zig-cache
@@ -14,7 +16,3 @@ log/*
 persist/*
 zcached.conf
 .DS_Store
-
-# Editor settings
-.vscode/
-.vscode
